@@ -4,13 +4,13 @@
 
 Motus is a robotic three wheeler vehicle with a turning mechanism controlled using Leap Motion Controller. The system can be consolidated into three components: Leap motion creates VR-Virtual Reality environment, circuit proceeds and transmits signals, and the DC motors and servo motors provides the feedback. All signals transmit through the bluetooth module HC-05 connected to Arduino UNO microcontroller along with the laptop’s bluetooth. This system involves the use of both software and hardware. A 12 volt DC lithium ion rechargeable battery pack is the only source of power. The Motus enhances the human interaction with hardware experience in the real world.
 
-COMPONENTS:
+COMPONENTS REQUIRED:
 
 1. RC Car Chasis
 2. Leap Motion Controller
 3. Microcontroller (Arduino UNO)
-4. 2 x DC Brushless Motors
-5. 2 x Small Size Wheels
+4. DC Brushless Motors.    x2
+5. Small Size Wheels.      x2
 6. Directional Wheel
 7. Micro Servo Motor (SG90)
 8. Bluetooth Module (HC-05)
