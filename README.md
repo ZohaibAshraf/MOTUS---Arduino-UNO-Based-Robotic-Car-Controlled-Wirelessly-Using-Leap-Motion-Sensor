@@ -22,6 +22,7 @@ COMPONENTS REQUIRED:
 ## Step 01
 
 Configure the leap motion sensor using the following link below:
+
 https://www.leapmotion.com/setup/desktop/windows
 
 ## Step 02
