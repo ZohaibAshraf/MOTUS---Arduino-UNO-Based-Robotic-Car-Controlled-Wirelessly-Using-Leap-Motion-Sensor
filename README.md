@@ -28,6 +28,8 @@ Configure the leap motion sensor using the following link below:
 
 https://www.leapmotion.com/setup/desktop/windows
 
+![alt text](leap-motion-3d-motion-gesture-controller-10-large.jpg)
+
 ## Step 02
 ### Leap Motion Controller Interfacing with Arduino Microcontroller
 
