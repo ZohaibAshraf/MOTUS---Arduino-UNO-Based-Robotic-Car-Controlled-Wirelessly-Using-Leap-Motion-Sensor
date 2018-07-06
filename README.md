@@ -1,7 +1,7 @@
 # MOTUS - Arduino Based Robotic Car Controlled Wirelessly Using Leap Motion Sensor
 
 ## Prototype Video
-Link: https://youtu.be/DA9Dmhxho-M
+Link: https://youtu.be/lCK8g7eae34
 
 ## Abstract
 
